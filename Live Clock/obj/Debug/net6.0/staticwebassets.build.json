@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "y7jdBvSqicoFzTpLMdO64wsxWVHXTxbExcKWZ5a+cSM=",
+  "Source": "Live Clock",
+  "BasePath": "_content/Live Clock",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Live Clock\\wwwroot",
+      "Source": "Live Clock",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\pdf\\Live Clock\\wwwroot\\",
+      "BasePath": "_content/Live Clock",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ASUS\\Downloads\\pdf\\Live Clock\\wwwroot\\Index.html",
+      "SourceId": "Live Clock",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ASUS\\Downloads\\pdf\\Live Clock\\wwwroot\\",
+      "BasePath": "_content/Live Clock",
+      "RelativePath": "Index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Index.html"
+    }
+  ]
+}
